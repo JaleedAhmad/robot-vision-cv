@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+env/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration
+.DS_Store
